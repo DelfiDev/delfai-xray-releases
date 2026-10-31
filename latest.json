@@ -1,0 +1,9 @@
+{
+  "version": "0.19.1",
+  "file": "xray-0.19.1.tar.gz",
+  "sha256": "1d814556888ce64c054ef4a10d1bb949711b5dee890976a408891fdc450de92a",
+  "size": 4461678,
+  "sig": "l2QkE4qVAuqdIycBB51uPGlaQeDFju0m2utgGGUbsBBTRBuj+UVJH6jWenUVhmVh63rKxMoUpcU8T47U5bqwCQ==",
+  "notes": "Security hardening: signed updates, locked broker keys, device limits, plus all v0.18 fixes.",
+  "date": "2026-10-31T09:26:41.240Z"
+}
