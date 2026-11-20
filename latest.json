@@ -1,9 +1,9 @@
 {
-  "version": "0.20.1",
-  "file": "xray-0.20.1.tar.gz",
-  "sha256": "a2109ffdd3e7fc225696e25369831d67c4407d580f2057f2ab869f42ca404696",
-  "size": 4476579,
-  "sig": "qhrU3VVFBst0gsJTdBZndh2AeWZ46fgn4xvMmJzXuLd9+UqWIOVF5P0ikT1RaruXSK1NNiRLXR7XTzbtCP03AQ==",
-  "notes": "Options chain shows every real expiration from your broker (nearest first, out to LEAPS). All sample data removed: anything without live data shows a dash or 'Market data not connected'.",
-  "date": "2026-11-20T02:23:41.471Z"
+  "version": "0.20.2",
+  "file": "xray-0.20.2.tar.gz",
+  "sha256": "e2f3f6ec3e76cfaaf21af78368f320a4450ef6d71929189cb04f7a1434dc0628",
+  "size": 4477005,
+  "sig": "LVAvB/Mu6LjLBMRbeNs6ZazfRphUXukWqJxjITq4aPC10sP/4NW0feN412f2fhTyBbj5M+/XS+9BkprjoX+UDA==",
+  "notes": "Lock button for drawings, 1M (monthly) timeframe, magnet now snaps when you move lines and boxes, rename and delete your watchlists.",
+  "date": "2026-11-20T02:54:40.562Z"
 }
