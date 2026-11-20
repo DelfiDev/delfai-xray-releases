@@ -1,9 +1,9 @@
 {
-  "version": "0.20.0",
-  "file": "xray-0.20.0.tar.gz",
-  "sha256": "f768876635379604565feef975bd8bbd09aa22fc5462157707a295c0cc990c52",
-  "size": 4475707,
-  "sig": "ZFQ3V1KNYY1uHmzaUXPOTAr8OkCzxf+MQfBD7kWs75TIuB7yTdqmoETCtemDwEXwnqREfjSuyWKCarnxQCvHBg==",
-  "notes": "Premium chart drawings stay put on every timeframe. New: copy chart image (camera button or Ctrl+Shift+S), live Order Book from Schwab next to the premium chart, Pre-market order zones indicator. Fixes: Economic Indicators menus come to the front and close properly, correct tickers on market news, more big-mover earnings.",
-  "date": "2026-11-20T01:37:30.778Z"
+  "version": "0.20.1",
+  "file": "xray-0.20.1.tar.gz",
+  "sha256": "a2109ffdd3e7fc225696e25369831d67c4407d580f2057f2ab869f42ca404696",
+  "size": 4476579,
+  "sig": "qhrU3VVFBst0gsJTdBZndh2AeWZ46fgn4xvMmJzXuLd9+UqWIOVF5P0ikT1RaruXSK1NNiRLXR7XTzbtCP03AQ==",
+  "notes": "Options chain shows every real expiration from your broker (nearest first, out to LEAPS). All sample data removed: anything without live data shows a dash or 'Market data not connected'.",
+  "date": "2026-11-20T02:23:41.471Z"
 }
