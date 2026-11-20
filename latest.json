@@ -1,9 +1,9 @@
 {
-  "version": "0.20.2",
-  "file": "xray-0.20.2.tar.gz",
-  "sha256": "e2f3f6ec3e76cfaaf21af78368f320a4450ef6d71929189cb04f7a1434dc0628",
-  "size": 4477005,
-  "sig": "LVAvB/Mu6LjLBMRbeNs6ZazfRphUXukWqJxjITq4aPC10sP/4NW0feN412f2fhTyBbj5M+/XS+9BkprjoX+UDA==",
-  "notes": "Lock button for drawings, 1M (monthly) timeframe, magnet now snaps when you move lines and boxes, rename and delete your watchlists.",
-  "date": "2026-11-20T02:54:40.562Z"
+  "version": "0.21.0",
+  "file": "xray-0.21.0.tar.gz",
+  "sha256": "67c5129668f4dfe431c3378f2122b6333c2177f2f746d7cfee5d73f706a2bcfd",
+  "size": 4509133,
+  "sig": "rY2HHqontNSqRgje5veWa2kEvD260vsxxz2PAN2qwFazqDeWuyqk/g9xmDZ3iOAF0exmCUtJuctPYwQ6+bLgBg==",
+  "notes": "New Heat Map and Stock Screener pages. Heat map: S&P 500, Nasdaq-100, Dow 30 or your watchlists, sized by market cap or volume, colored by change, performance, relative volume, volatility or gap, grouped by sector. Stock screener: TradingView-style presets, filters with manual setup, 100+ fields, column sets, sorting, CSV export and saved screens. All real data: your broker for prices, SEC filings for financials.",
+  "date": "2026-11-20T07:00:37.570Z"
 }
