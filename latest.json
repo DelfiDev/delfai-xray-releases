@@ -1,9 +1,9 @@
 {
-  "version": "0.19.2",
-  "file": "xray-0.19.2.tar.gz",
-  "sha256": "1db99078452e9c674e64489cdc6c151f316bca1ef965fff29ca62a2bb4c11bcd",
-  "size": 4461746,
-  "sig": "cpfI3a5EPray/4d7hG2JZZyLvhvo/ZcfED80ug/GSvnjBDdBUKSHGaHZwd4KNQzqmHx77o5Q9rlXHElBTBfnAQ==",
-  "notes": "Windows: removed the hidden PowerShell voice-typing trigger (mic now shows Win+H hint), app makes its own Desktop/Start shortcuts.",
-  "date": "2026-11-09T02:07:37.234Z"
+  "version": "0.20.0",
+  "file": "xray-0.20.0.tar.gz",
+  "sha256": "f768876635379604565feef975bd8bbd09aa22fc5462157707a295c0cc990c52",
+  "size": 4475707,
+  "sig": "ZFQ3V1KNYY1uHmzaUXPOTAr8OkCzxf+MQfBD7kWs75TIuB7yTdqmoETCtemDwEXwnqREfjSuyWKCarnxQCvHBg==",
+  "notes": "Premium chart drawings stay put on every timeframe. New: copy chart image (camera button or Ctrl+Shift+S), live Order Book from Schwab next to the premium chart, Pre-market order zones indicator. Fixes: Economic Indicators menus come to the front and close properly, correct tickers on market news, more big-mover earnings.",
+  "date": "2026-11-20T01:37:30.778Z"
 }
