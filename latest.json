@@ -1,9 +1,9 @@
 {
-  "version": "0.22.0",
-  "file": "xray-0.22.0.tar.gz",
-  "sha256": "0cc63fa67fb25a59c057aefe7ec365d573f09909cd2cda2cae0054fe8a2a199d",
-  "size": 4519150,
-  "sig": "IJE+qnsJI0yCXwahjErzdg8aaVs1zXx3Gvzxiz80VmXCdf1J2eBOYVBqy3UhxCuU5Z9G+nUTx/Zd23szeJXDCQ==",
-  "notes": "New My Layout tab (under Journal): build your own screen from any widget in X-ray. Drag, resize, link widgets in colored groups so they share one ticker, and save several layouts. Every widget is the real one with live data.",
-  "date": "2026-11-20T13:23:23.794Z"
+  "version": "0.22.1",
+  "file": "xray-0.22.1.tar.gz",
+  "sha256": "6c1fda51dbfaa1a7db0f178a2ed944cb7b9e5466f1beed67768314347ec5dfb2",
+  "size": 4519733,
+  "sig": "a8wOqi46nOU/r3Z3RaZYfNwkwthKvLD7YXR0UZSByJlyXIUNQRqV2Id9WVXHS5xmqIYdc99S9/bLSEnHcZECDw==",
+  "notes": "Any ticker now works with your broker connected: add TGT, LULU or any real stock to your watchlist, chart it, and see its Gamma Core. Shows Loading while it pulls data and a clear message if a ticker isn't found.",
+  "date": "2026-11-23T06:35:50.760Z"
 }
